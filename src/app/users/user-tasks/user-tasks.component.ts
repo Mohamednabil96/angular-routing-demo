@@ -23,7 +23,7 @@ export class UserTasksComponent{
   // private destroyRef = inject(DestroyRef);
 
   // ngOnInit(): void {
-  //   console.log(this.activateRoute);
+  //   console.log(this.activateRoute.snapshot);
   //   const subscription = this.activateRoute.paramMap.subscribe({
   //     next : (paramMap) => {
   //       this.userName = this.usersService.users.find
